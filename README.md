@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-project from Prodigy Info Tech
+project 01  from Prodigy Info Tech
